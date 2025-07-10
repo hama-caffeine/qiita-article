@@ -113,7 +113,7 @@ $ npm ls -g @google/gemini-cli
 └── @google/gemini-cli@0.1.7
 ```
 
-※`local-env.sh`は https://github.com/hama-caffeine/qiita-article/local-env-write/local-env.sh にあります
+※`local-env.sh`は https://github.com/hama-caffeine/qiita-article/blob/1e83ca0706b61b90114cf2ecf2b86b5c3f393798/local-env-write/local-env.sh にあります
 
 
 ## あとは書くだけ！
